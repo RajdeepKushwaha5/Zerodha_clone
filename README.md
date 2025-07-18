@@ -1,2 +1,2 @@
-# Zerodha_clone
-I've made Zerodha clone by using HTML and CSS .
+# Zerodha_Landing_Page
+I've made Zerodha Landing Page by using HTML and CSS .
